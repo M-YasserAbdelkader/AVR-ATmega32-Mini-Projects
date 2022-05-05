@@ -1,6 +1,3 @@
-# AVR-ATmega32-Mini-Projects
-Mini projects on Atmel®AVR®ATmega32
-
 # Mini projects on Atmel®AVR®ATmega32
 
 These are simple projects created during studying and developing on Atmega32
