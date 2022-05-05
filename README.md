@@ -17,8 +17,8 @@ These are simple projects created during studying and developing on Atmega32
 
 
 ## 🔗 Links
-[![Yasser M. Abdalkader](www.linkedin.com/in/yasser-m-abdelkader)](https://www.linkedin.com/)
-[![Yasser_Mustafa_](https://twitter.com/Yasser_Mustafa_)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasser-m-abdelkader)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yasser_Mustafa_)
 
 
 ## 🛠 Skills
