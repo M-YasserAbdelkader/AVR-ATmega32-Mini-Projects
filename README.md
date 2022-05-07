@@ -3,11 +3,12 @@
 These are simple projects created during studying and developing on Atmega32
 
 
-## Demo
+## Applications
 
 - Simple Stopwatch application on Atmel®AVR®ATmega32
 
     https://youtu.be/Oc2SArUZV2A
+- Simple Calulator application
 ## Authors
 
 - [@Yasser-M-Abdalkader](https://github.com/Yasser-M-Abdalkader)
