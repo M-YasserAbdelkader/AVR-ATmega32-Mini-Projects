@@ -55,7 +55,17 @@ void main(void)
             HLCD_voidWriteNumber((u32)local_u8FirstDigit + (u32)local_u8SecondDigit);
             break;
         case '-':
-            HLCD_voidWriteNumber((u32)local_u8FirstDigit - (u32)local_u8SecondDigit);
+            if (local_u8FirstDigit >= local_u8SecondDigit)
+            {
+                HLCD_voidWriteNumber((u8)(local_u8FirstDigit - local_u8SecondDigit));
+            }
+            else
+            {
+                HLCD_voidSendDATA('-');
+                HLCD_voidWriteNumber((u8)(local_u8SecondDigit - local_u8FirstDigit));
+            }
+            
+            
             break;
         case '*':
             HLCD_voidWriteNumber((u32)local_u8FirstDigit * (u32)local_u8SecondDigit);
